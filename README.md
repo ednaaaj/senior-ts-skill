@@ -4,6 +4,12 @@ An agent skill that makes AI coding agents write JavaScript and TypeScript the w
 
 Its rules come from studying how well-maintained TypeScript libraries are structured, linted, typed, tested and published, then turning that into concrete, checkable rules an agent can follow.
 
+
+
+https://github.com/user-attachments/assets/c8bde5f5-63f3-4160-8312-843a8ee4ce64
+
+
+
 ## Install
 
 ```bash
